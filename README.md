@@ -1,4 +1,4 @@
-# 🔥 How to turn any web app in low-code boilerplate 🔥
+# 🔥 How to turn any web app in low-code 🔥
 
 Builder.io is a visual CMS that allows integration with any stack, both front-end and back-end. Its promise is to decouple product, design and marketing processes from the development process, focusing on creating components that can be managed, edited and modified in a drag-and-drop editor.
 Imagine that your site has one or more campaigns that are no longer valid, and that when you close a campaign, the content must be removed immediately. To avoid legal problems for disclosing something that is no longer valid, this is an urgent demand on the development team's board, which ends up having to accommodate the demand, often interrupting other activities in progress, causing work overload. In this model, developers become a content management tool, which depending on the business model can be more important than improving the software itself.
